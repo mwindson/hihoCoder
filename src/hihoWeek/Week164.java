@@ -1,3 +1,5 @@
+package hihoWeek;
+
 import java.util.Scanner;
 
 /**
